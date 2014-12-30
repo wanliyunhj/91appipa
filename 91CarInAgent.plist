@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.django.t.taobao.com/rest/1.0/file?acl=3c52e0490a7fe98e0cc4a8efc92ed3b6&amp;cID=40001&amp;fileIds=ZNQnWmlMQ0KQfne9i7xBywAAAA8AAQIC&amp;name=TNCarInAgent.ipa&amp;timestamp=1419868800&amp;token=EDsBSkSUR32k7ng4OQ7KMwBe_gPQAAEB&amp;uID=348450169</string>
+					<string>https://github.com/wanliyunhj/91appipa/blob/master/TNCarInAgent.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://dl.django.t.taobao.com/rest/1.0/file?acl=6de2fa580724fad68d595956f691a187&amp;cID=40001&amp;fileIds=NlyaskTvTFu2dePkCfgxnwAAAA8AAQIC&amp;name=Icon.png&amp;timestamp=1419868800&amp;token=-h4BR3zmSrmXYzy_cd16gwBe_gQ0AAEB&amp;uID=348450169</string>
+					<string>https://github.com/wanliyunhj/91appipa/blob/master/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://dl.django.t.taobao.com/rest/1.0/file?acl=6de2fa580724fad68d595956f691a187&amp;cID=40001&amp;fileIds=NlyaskTvTFu2dePkCfgxnwAAAA8AAQIC&amp;name=Icon.png&amp;timestamp=1419868800&amp;token=-h4BR3zmSrmXYzy_cd16gwBe_gQ0AAEB&amp;uID=348450169</string>
+					<string>https://github.com/wanliyunhj/91appipa/blob/master/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
